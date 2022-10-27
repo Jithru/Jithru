@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jithru Jayawantha De Silva</h1>
+
+
 <h3 align="center">3rd Year Computer Science Undergraduate at UCSC</h3>
 
 
@@ -7,6 +9,7 @@
 
 - 📫 How to reach me **jithru9@gmail.com**
 
+<img align ="right" alt="coding" width=400 src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jithru-jayawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithru-jayawantha" height="30" width="40" /></a>
