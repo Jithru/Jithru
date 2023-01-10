@@ -2,6 +2,7 @@
 
 
 <h3 align="center">3rd Year Computer Science Undergraduate at UCSC</h3>
+<h3 align="center">Trainee Software Engineer</h3>
 
 
 
