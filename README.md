@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Jithru Jayawantha De Silva</h1>
 
+<img style="margin-left: auto, margin-right: auto" src="https://user-images.githubusercontent.com/78858779/219280582-9af2265f-8cb2-478d-a2fc-35244408ec8e.gif" alt="gif" />
+
+
+<h1 align="center">Hi 👋, I'm Jithru Jayawantha De Silva</h1>
 
 <h3 align="center">3rd Year Computer Science Undergraduate at UCSC</h3>
 <h3 align="center">Trainee Software Engineer</h3>
-
+<img align ="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  alt="coding"  style="opacity: 0.5; border-radius=50%"
+width=500 />
 
 
 - 🌱 I’m currently learning **React,ReactNative,Nodejs,expressjs,flutter,asp.Net,Blazor**
 
 - 📫 How to reach me **jithru9@gmail.com**
 
-<img align ="right" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"  alt="coding"  style="opacity: 0.5; border-radius=50%"
-width=500 />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jithru-jayawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jithru-jayawantha" height="30" width="40" /></a>
